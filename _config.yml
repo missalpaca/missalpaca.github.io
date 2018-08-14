@@ -1,0 +1,35 @@
+title: Hi! I'm Liz
+description: > 
+  Alpaca's Dev Blog.
+permalink: ':title/'
+baseurl: "/" 
+url: "missalpaca.github.io/" 
+imgrul: 'http://missalpaca.github.io/assets/images/'
+
+# Author Settings
+author: Lizeth Garcia # add your name
+author-img: liz-garcia.jpg # add your photo
+about-author: I am a web designer # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: missalpaca # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
+
+# Disqus
+discus-identifier: missalpaca # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
