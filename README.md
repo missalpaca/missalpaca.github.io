@@ -1,7 +1,7 @@
 Lizeth Garcia Blog on Github
 
 ## About the Theme
-Based on [Flexible-Jekyll theme.] (https://artemsheludko.github.io/flexible-jekyll/)
+Based on [Flexible-Jekyll theme] (https://artemsheludko.github.io/flexible-jekyll/)
 
 ## Features
 
