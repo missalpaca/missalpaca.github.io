@@ -10,11 +10,10 @@ imgrul: 'http://missalpaca.github.io/assets/images/'
 author: Lizeth Garcia # add your name
 author-img: liz-garcia.jpg # add your photo
 about-author: I am a web designer # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+social-twitter: lizethgarciar # add your Twitter handle
 social-github: missalpaca # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: kazegarcia # add your Linkedin handle
+social-email: kazegarciar@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: missalpaca # add your discus identifier
