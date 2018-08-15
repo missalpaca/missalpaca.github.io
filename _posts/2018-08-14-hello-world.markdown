@@ -17,7 +17,7 @@ Desde siempre he tenido inquietud por la tecnología, sobre todo en la creación
 
 Espero conozcan más sobre mi en las siguientes entradas.
 
-![my computer]({{site.baseurl}}/assets/img/hw-01.jpg)
+![Make a software.]({{ site.baseurl }}/assets/img/hw-01.jpg)
 
 Saludos.
 - Liz
