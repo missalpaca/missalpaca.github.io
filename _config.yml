@@ -4,7 +4,7 @@ description: >
 permalink: ':title/'
 baseurl: "/" 
 url: "missalpaca.github.io/" 
-imgrul: 'http://missalpaca.github.io/assets/img/lizeth-garcia.jpg'
+imgrul: 'http://missalpaca.github.io/assets/img/'
 
 # Author Settings
 author: Lizeth Garcia # add your name
